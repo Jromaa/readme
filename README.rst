@@ -6,7 +6,7 @@ Abstract
 ^^^^^^^^
 
 
-![mariposa](https://github.com/walterbender/turtleblocksjs/blob/master/butterfly.jpg "mariposa")
+![mariposa](https://github.com/Jromaa/readme/master/butterfly.jpg "mariposa")
 
 L’objectiu d’aquesta primera pràctica ha sigut aconseguir visualitzar imatges de manera realista. El primer va ser familiaritzar-nos amb el llenguatge C++ i el IDE Qt Creator, ja que no teníem cap experiència prèvia en cap de les dues coses. Seguidament, vam començar a aplicar els diferents coneixements adquirits a classe, tal com el càlcul d’interseccions de diferents tipus d’objectes com són el pla, el triangle, el cub i una malla formada amb triangles. Un pas més enllà va ser amb el càlcul de il·luminació i ombra en una escena, on vam haver d’implementar el model Blinn-Phong per dur a terme això. Per últim, vam modificar el mètode ‘ComputeColor’ per fer-ho recursiu i així poder aplicar-li reflexions i refraccions als nostres objectes.
 
